@@ -1,0 +1,40 @@
+{
+  "name": "show-it-once",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Teach an agent your recurring workflow from past examples, prove it matches your work, then run it on Agent37.",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev -p 3737",
+    "build": "next build",
+    "start": "next start -p 3737",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "seeds": "tsx scripts/generate-seeds.ts",
+    "runner:build": "tsx scripts/build-runner.ts",
+    "runner": "tsx src/agent/cli.ts",
+    "agent37:provision": "tsx scripts/agent37-provision.ts",
+    "baseline:record": "tsx scripts/record-baseline.ts",
+    "reset": "rm -rf .data"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.117.2",
+    "next": "^16.3.8",
+    "openai": "^7.27.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "esbuild": "^0.28.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.3"
+  }
+}

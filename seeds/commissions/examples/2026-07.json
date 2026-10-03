@@ -1,0 +1,139 @@
+{
+  "period": "2026-07",
+  "statements": {
+    "ava": {
+      "commissionCents": 1840000,
+      "lines": [
+        {
+          "dealId": "D-1012",
+          "creditCents": 3500000,
+          "commissionCents": 350000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1013",
+          "creditCents": 3100000,
+          "commissionCents": 310000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1024",
+          "creditCents": 9000000,
+          "commissionCents": 1180000,
+          "note": "accelerator above quota"
+        }
+      ]
+    },
+    "ben": {
+      "commissionCents": 340000,
+      "lines": [
+        {
+          "dealId": "D-1014",
+          "creditCents": 3400000,
+          "commissionCents": 340000,
+          "note": ""
+        }
+      ]
+    },
+    "carlos": {
+      "commissionCents": 190000,
+      "lines": [
+        {
+          "dealId": "D-1015",
+          "creditCents": 1900000,
+          "commissionCents": 190000,
+          "note": ""
+        }
+      ]
+    },
+    "dana": {
+      "commissionCents": 680000,
+      "lines": [
+        {
+          "dealId": "D-1016",
+          "creditCents": 3100000,
+          "commissionCents": 310000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1017",
+          "creditCents": 3700000,
+          "commissionCents": 370000,
+          "note": ""
+        }
+      ]
+    },
+    "eli": {
+      "commissionCents": 360000,
+      "lines": [
+        {
+          "dealId": "D-1018",
+          "creditCents": 1800000,
+          "commissionCents": 180000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1025",
+          "creditCents": 1800000,
+          "commissionCents": 180000,
+          "note": ""
+        }
+      ]
+    },
+    "farah": {
+      "commissionCents": 540000,
+      "lines": [
+        {
+          "dealId": "D-1019",
+          "creditCents": 1900000,
+          "commissionCents": 190000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1020",
+          "creditCents": 2300000,
+          "commissionCents": 230000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1025",
+          "creditCents": 1200000,
+          "commissionCents": 120000,
+          "note": ""
+        }
+      ]
+    },
+    "gus": {
+      "commissionCents": 570000,
+      "lines": [
+        {
+          "dealId": "D-1021",
+          "creditCents": 2200000,
+          "commissionCents": 220000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1022",
+          "creditCents": 3500000,
+          "commissionCents": 350000,
+          "note": ""
+        }
+      ]
+    },
+    "hana": {
+      "commissionCents": 330000,
+      "lines": [
+        {
+          "dealId": "D-1023",
+          "creditCents": 3300000,
+          "commissionCents": 330000,
+          "note": ""
+        }
+      ]
+    }
+  },
+  "crmClosedWonTotalCents": 45700000,
+  "exceptions": [],
+  "heldReps": [],
+  "exceptionChecks": []
+}

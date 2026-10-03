@@ -1,0 +1,276 @@
+{
+  "period": "2026-09",
+  "accountsFound": [
+    "chase-checking",
+    "chase-savings",
+    "amex",
+    "stripe",
+    "revolut-usd",
+    "revolut-eur"
+  ],
+  "accounts": {
+    "chase-checking": {
+      "openingCents": 13285900,
+      "closingCents": 16370064
+    },
+    "chase-savings": {
+      "openingCents": 4013883,
+      "closingCents": 4518209
+    },
+    "amex": {
+      "openingCents": -612044,
+      "closingCents": -612044
+    },
+    "stripe": {
+      "openingCents": 819233,
+      "closingCents": 1024423
+    },
+    "revolut-usd": {
+      "openingCents": -2523318,
+      "closingCents": -3491583
+    },
+    "revolut-eur": {
+      "openingCents": 0,
+      "closingCents": 833
+    }
+  },
+  "categories": {
+    "202609-0407": "Advertising",
+    "202609-0408": "Advertising",
+    "202609-0409": "Advertising",
+    "202609-0410": "Advertising",
+    "202609-0411": "Advertising",
+    "202609-0412": "Advertising",
+    "202609-0413": "Advertising",
+    "202609-0414": "Advertising",
+    "202609-0415": "Advertising",
+    "202609-0416": "Advertising",
+    "202609-0417": "Advertising",
+    "202609-0418": "Advertising",
+    "202609-0419": "Advertising",
+    "202609-0420": "Advertising",
+    "202609-0421": "Advertising",
+    "202609-0422": "Advertising",
+    "202609-0423": "Advertising",
+    "202609-0424": "Shipping and postage",
+    "202609-0425": "Shipping and postage",
+    "202609-0426": "Shipping and postage",
+    "202609-0427": "Shipping and postage",
+    "202609-0428": "Shipping and postage",
+    "202609-0429": "Shipping and postage",
+    "202609-0430": "Shipping and postage",
+    "202609-0431": "Shipping and postage",
+    "202609-0432": "Shipping and postage",
+    "202609-0433": "Shipping and postage",
+    "202609-0434": "Shipping and postage",
+    "202609-0435": "Shipping and postage",
+    "202609-0436": "Shipping and postage",
+    "202609-0437": "Shipping and postage",
+    "202609-0438": "Shipping and postage",
+    "202609-0439": "Shipping and postage",
+    "202609-0440": "Shipping and postage",
+    "202609-0441": "Shipping and postage",
+    "202609-0442": "Shipping and postage",
+    "202609-0443": "Shipping and postage",
+    "202609-0444": "Shipping and postage",
+    "202609-0445": "Shipping and postage",
+    "202609-0446": "Shipping and postage",
+    "202609-0447": "Shipping and postage",
+    "202609-0448": "Shipping and postage",
+    "202609-0449": "Shipping and postage",
+    "202609-0450": "Shipping and postage",
+    "202609-0451": "Shipping and postage",
+    "202609-0452": "Shipping and postage",
+    "202609-0453": "Shipping and postage",
+    "202609-0454": "Shipping and postage",
+    "202609-0455": "Shipping and postage",
+    "202609-0456": "Shipping and postage",
+    "202609-0457": "Shipping and postage",
+    "202609-0458": "Shipping and postage",
+    "202609-0459": "Shipping and postage",
+    "202609-0460": "Packaging and labels",
+    "202609-0461": "Packaging and labels",
+    "202609-0462": "Office supplies",
+    "202609-0463": "Office supplies",
+    "202609-0464": "Software",
+    "202609-0465": "Software",
+    "202609-0466": "Software",
+    "202609-0467": "Software",
+    "202609-0468": "Travel",
+    "202609-0469": "Travel",
+    "202609-0470": "Travel",
+    "202609-0471": "Travel",
+    "202609-0472": "Meals",
+    "202609-0473": "Meals",
+    "202609-0474": "Meals",
+    "202609-0475": "Meals",
+    "202609-0476": "Meals",
+    "202609-0477": "Meals",
+    "202609-0478": "Meals",
+    "202609-0479": "Meals",
+    "202609-0480": "Meals",
+    "202609-0481": "Meals",
+    "202609-0482": "Meals",
+    "202609-0483": "Rent",
+    "202609-0484": "Utilities",
+    "202609-0485": "Utilities",
+    "202609-0486": "Insurance",
+    "202609-0487": "Contractors",
+    "202609-0488": "Owner draws",
+    "202609-0489": "Owner draws",
+    "202609-0490": "Bank fees",
+    "202609-0491": "Inventory",
+    "202609-0492": "Inventory",
+    "202609-0493": "Bank fees",
+    "202609-0494": "Bank fees",
+    "202609-0495": "Bank fees",
+    "202609-0496": "Contractors",
+    "202609-0497": "Software",
+    "202609-0498": "Prepaid expenses",
+    "202609-0499": "Office supplies",
+    "202609-0500": [
+      {
+        "category": "Inventory",
+        "amountCents": 10624
+      },
+      {
+        "category": "Office supplies",
+        "amountCents": 3466
+      }
+    ],
+    "202609-0501": "Packaging and labels",
+    "202609-0502": "Transfer between accounts",
+    "202609-0503": "Transfer between accounts",
+    "202609-0504": "Transfer between accounts",
+    "202609-0505": "Transfer between accounts",
+    "202609-0506": "Transfer between accounts",
+    "202609-0507": "Transfer between accounts",
+    "202609-0508": "Transfer between accounts",
+    "202609-0509": "Transfer between accounts",
+    "202609-0510": "Wholesale revenue",
+    "202609-0511": "Merchant fees",
+    "202609-0512": "Wholesale revenue",
+    "202609-0513": "Merchant fees",
+    "202609-0514": "Wholesale revenue",
+    "202609-0515": "Merchant fees",
+    "202609-0516": "Wholesale revenue",
+    "202609-0517": "Merchant fees",
+    "202609-0518": "Wholesale revenue",
+    "202609-0519": "Merchant fees",
+    "202609-0520": "Wholesale revenue",
+    "202609-0521": "Merchant fees",
+    "202609-0522": "Transfer between accounts",
+    "202609-0523": "Transfer between accounts",
+    "202609-0524": "Payroll",
+    "202609-0525": "Payroll taxes",
+    "202609-0526": "Payroll",
+    "202609-0527": "Payroll taxes",
+    "202609-0528": "Credit card payment",
+    "202609-0529": "Credit card payment",
+    "202609-0530": "Transfer between accounts",
+    "202609-0531": "Transfer between accounts",
+    "202609-0532": "Interest income",
+    "202609-0533": "Transfer between accounts",
+    "202609-0534": "Inventory",
+    "202609-0535": "Inventory",
+    "202609-0536": "Inventory",
+    "202609-0537": "Inventory",
+    "202609-0538": "Inventory",
+    "202609-0539": "Inventory",
+    "202609-0540": "Inventory",
+    "202609-0541": "Inventory",
+    "202609-0542": "Inventory",
+    "202609-0543": "Inventory",
+    "202609-0544": "Bank fees"
+  },
+  "payouts": {
+    "PO-202609-1": {
+      "salesCents": 1027485,
+      "feesCents": 32017,
+      "refundsCents": 28326,
+      "chargebacksCents": 0,
+      "depositCents": 967142,
+      "unexplainedCents": 0
+    },
+    "PO-202609-2": {
+      "salesCents": 955358,
+      "feesCents": 30105,
+      "refundsCents": 0,
+      "chargebacksCents": 0,
+      "depositCents": 925253,
+      "unexplainedCents": 0
+    },
+    "PO-202609-3": {
+      "salesCents": 864391,
+      "feesCents": 28247,
+      "refundsCents": 17580,
+      "chargebacksCents": 0,
+      "depositCents": 818564,
+      "unexplainedCents": 0
+    },
+    "PO-202609-4": {
+      "salesCents": 970385,
+      "feesCents": 30781,
+      "refundsCents": 0,
+      "chargebacksCents": 0,
+      "depositCents": 939604,
+      "unexplainedCents": 0
+    },
+    "PO-202609-5": {
+      "salesCents": 990000,
+      "feesCents": 28710,
+      "refundsCents": 113800,
+      "chargebacksCents": 6290,
+      "depositCents": 841200,
+      "unexplainedCents": 0
+    },
+    "PO-202609-6": {
+      "salesCents": 1008661,
+      "feesCents": 31591,
+      "refundsCents": 0,
+      "chargebacksCents": 7381,
+      "depositCents": 969689,
+      "unexplainedCents": 0
+    },
+    "PO-202609-7": {
+      "salesCents": 1137409,
+      "feesCents": 37095,
+      "refundsCents": 8366,
+      "chargebacksCents": 0,
+      "depositCents": 1091948,
+      "unexplainedCents": 0
+    },
+    "PO-202609-8": {
+      "salesCents": 867112,
+      "feesCents": 28716,
+      "refundsCents": 0,
+      "chargebacksCents": 0,
+      "depositCents": 838396,
+      "unexplainedCents": 0
+    }
+  },
+  "payroll": {
+    "netPayCents": 3318445,
+    "taxesCents": 1092838,
+    "tiesToBank": true
+  },
+  "exceptions": [
+    "shopify-break:PO-202609-5",
+    "new-account:revolut-eur",
+    "unknown-merchant:SQ *KESTREL PRINT"
+  ],
+  "exceptionChecks": [
+    {
+      "label": "Caught the Shopify payout break",
+      "pattern": "po-202609-5|62\\.90|payout"
+    },
+    {
+      "label": "Caught the new EUR account",
+      "pattern": "eur|revolut|new account|3381"
+    },
+    {
+      "label": "Asked about Kestrel instead of guessing",
+      "pattern": "kestrel"
+    }
+  ]
+}

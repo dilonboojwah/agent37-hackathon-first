@@ -1,0 +1,166 @@
+{
+  "period": "2026-08",
+  "company": "Northwind Analytics",
+  "reps": [
+    {
+      "id": "ava",
+      "name": "Ava Chen",
+      "quotaCents": 10000000
+    },
+    {
+      "id": "ben",
+      "name": "Ben Ortiz",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "carlos",
+      "name": "Carlos Diaz",
+      "quotaCents": 12000000,
+      "endDate": "2026-08-31"
+    },
+    {
+      "id": "dana",
+      "name": "Dana Kim",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "eli",
+      "name": "Eli Novak",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "farah",
+      "name": "Farah Aziz",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "gus",
+      "name": "Gus Patel",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "hana",
+      "name": "Hana Ito",
+      "quotaCents": 12000000
+    }
+  ],
+  "deals": [
+    {
+      "id": "D-1026",
+      "account": "Pioneer Logistics",
+      "amountCents": 3100000,
+      "termMonths": 12,
+      "signedDate": "2026-08-24",
+      "closedWonDate": "2026-08-24",
+      "ownerId": "ava"
+    },
+    {
+      "id": "D-1027",
+      "account": "Nimbus Air",
+      "amountCents": 3400000,
+      "termMonths": 12,
+      "signedDate": "2026-08-09",
+      "closedWonDate": "2026-08-09",
+      "ownerId": "ben"
+    },
+    {
+      "id": "D-1028",
+      "account": "Cobalt Labs",
+      "amountCents": 3000000,
+      "termMonths": 12,
+      "signedDate": "2026-08-09",
+      "closedWonDate": "2026-08-09",
+      "ownerId": "carlos"
+    },
+    {
+      "id": "D-1029",
+      "account": "Nimbus Air",
+      "amountCents": 2300000,
+      "termMonths": 12,
+      "signedDate": "2026-08-17",
+      "closedWonDate": "2026-08-17",
+      "ownerId": "carlos"
+    },
+    {
+      "id": "D-1030",
+      "account": "Meridian Hotels",
+      "amountCents": 3100000,
+      "termMonths": 12,
+      "signedDate": "2026-08-02",
+      "closedWonDate": "2026-08-02",
+      "ownerId": "dana"
+    },
+    {
+      "id": "D-1031",
+      "account": "Evergreen Foods",
+      "amountCents": 2000000,
+      "termMonths": 12,
+      "signedDate": "2026-08-09",
+      "closedWonDate": "2026-08-09",
+      "ownerId": "eli"
+    },
+    {
+      "id": "D-1032",
+      "account": "Granite Bank",
+      "amountCents": 2700000,
+      "termMonths": 12,
+      "signedDate": "2026-08-09",
+      "closedWonDate": "2026-08-09",
+      "ownerId": "farah"
+    },
+    {
+      "id": "D-1033",
+      "account": "Juniper Schools",
+      "amountCents": 2400000,
+      "termMonths": 12,
+      "signedDate": "2026-08-19",
+      "closedWonDate": "2026-08-19",
+      "ownerId": "farah"
+    },
+    {
+      "id": "D-1034",
+      "account": "Orchard Clinics",
+      "amountCents": 2900000,
+      "termMonths": 12,
+      "signedDate": "2026-08-18",
+      "closedWonDate": "2026-08-18",
+      "ownerId": "gus"
+    },
+    {
+      "id": "D-1035",
+      "account": "Meridian Hotels",
+      "amountCents": 2100000,
+      "termMonths": 12,
+      "signedDate": "2026-08-15",
+      "closedWonDate": "2026-08-15",
+      "ownerId": "hana"
+    },
+    {
+      "id": "D-1036",
+      "account": "Granite Bank",
+      "amountCents": 10800000,
+      "termMonths": 36,
+      "signedDate": "2026-08-18",
+      "closedWonDate": "2026-08-18",
+      "ownerId": "dana"
+    },
+    {
+      "id": "D-1037",
+      "account": "Meridian Hotels",
+      "amountCents": 9000000,
+      "termMonths": 12,
+      "signedDate": "2026-08-21",
+      "closedWonDate": "2026-08-21",
+      "ownerId": "ava"
+    }
+  ],
+  "churn": [
+    {
+      "dealId": "D-1009",
+      "churnDate": "2026-08-20",
+      "repId": "hana",
+      "commissionPaidCents": 250000
+    }
+  ],
+  "crmClosedWonTotalCents": 46800000
+}

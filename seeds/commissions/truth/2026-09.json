@@ -1,0 +1,161 @@
+{
+  "period": "2026-09",
+  "statements": {
+    "ava": {
+      "commissionCents": 664000,
+      "lines": [
+        {
+          "dealId": "D-1038",
+          "creditCents": 4000000,
+          "commissionCents": 400000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1048",
+          "creditCents": 2640000,
+          "commissionCents": 264000,
+          "note": ""
+        }
+      ]
+    },
+    "ben": {
+      "commissionCents": 480000,
+      "lines": [
+        {
+          "dealId": "D-1039",
+          "creditCents": 2600000,
+          "commissionCents": 260000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1048",
+          "creditCents": 2200000,
+          "commissionCents": 220000,
+          "note": ""
+        }
+      ]
+    },
+    "carlos": {
+      "commissionCents": 260000,
+      "lines": [
+        {
+          "dealId": "D-1049",
+          "creditCents": 2600000,
+          "commissionCents": 260000,
+          "note": ""
+        }
+      ]
+    },
+    "dana": {
+      "commissionCents": 470000,
+      "lines": [
+        {
+          "dealId": "D-1040",
+          "creditCents": 2500000,
+          "commissionCents": 250000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1050",
+          "creditCents": 2200000,
+          "commissionCents": 220000,
+          "note": ""
+        }
+      ]
+    },
+    "eli": {
+      "commissionCents": 400000,
+      "lines": [
+        {
+          "dealId": "D-1041",
+          "creditCents": 4000000,
+          "commissionCents": 400000,
+          "note": ""
+        }
+      ]
+    },
+    "farah": {
+      "commissionCents": 720000,
+      "lines": [
+        {
+          "dealId": "D-1042",
+          "creditCents": 4000000,
+          "commissionCents": 400000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1043",
+          "creditCents": 3200000,
+          "commissionCents": 320000,
+          "note": ""
+        }
+      ]
+    },
+    "gus": {
+      "commissionCents": 970000,
+      "lines": [
+        {
+          "dealId": "D-1044",
+          "creditCents": 3800000,
+          "commissionCents": 380000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1045",
+          "creditCents": 2300000,
+          "commissionCents": 230000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1051",
+          "creditCents": 3600000,
+          "commissionCents": 360000,
+          "note": ""
+        }
+      ]
+    },
+    "hana": {
+      "commissionCents": 680000,
+      "lines": [
+        {
+          "dealId": "D-1046",
+          "creditCents": 3800000,
+          "commissionCents": 380000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1047",
+          "creditCents": 3000000,
+          "commissionCents": 300000,
+          "note": ""
+        }
+      ]
+    }
+  },
+  "crmClosedWonTotalCents": 49600000,
+  "exceptions": [
+    "split-over-100",
+    "departed-owner:carlos",
+    "missing-signed-date"
+  ],
+  "heldReps": [
+    "ava",
+    "ben",
+    "carlos",
+    "dana"
+  ],
+  "exceptionChecks": [
+    {
+      "label": "Caught the split over 100%",
+      "pattern": "110|split"
+    },
+    {
+      "label": "Caught the departed owner",
+      "pattern": "carlos|left|departed"
+    },
+    {
+      "label": "Caught the missing signed date",
+      "pattern": "signed date|summit|missing"
+    }
+  ]
+}

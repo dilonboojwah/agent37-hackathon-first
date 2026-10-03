@@ -1,0 +1,150 @@
+{
+  "period": "2026-06",
+  "company": "Northwind Analytics",
+  "reps": [
+    {
+      "id": "ava",
+      "name": "Ava Chen",
+      "quotaCents": 10000000
+    },
+    {
+      "id": "ben",
+      "name": "Ben Ortiz",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "carlos",
+      "name": "Carlos Diaz",
+      "quotaCents": 12000000,
+      "endDate": "2026-08-31"
+    },
+    {
+      "id": "dana",
+      "name": "Dana Kim",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "eli",
+      "name": "Eli Novak",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "farah",
+      "name": "Farah Aziz",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "gus",
+      "name": "Gus Patel",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "hana",
+      "name": "Hana Ito",
+      "quotaCents": 12000000
+    }
+  ],
+  "deals": [
+    {
+      "id": "D-1001",
+      "account": "Pioneer Logistics",
+      "amountCents": 2300000,
+      "termMonths": 12,
+      "signedDate": "2026-06-13",
+      "closedWonDate": "2026-06-13",
+      "ownerId": "ava"
+    },
+    {
+      "id": "D-1002",
+      "account": "Orchard Clinics",
+      "amountCents": 3400000,
+      "termMonths": 12,
+      "signedDate": "2026-06-07",
+      "closedWonDate": "2026-06-07",
+      "ownerId": "ava"
+    },
+    {
+      "id": "D-1003",
+      "account": "Ion Energy",
+      "amountCents": 2600000,
+      "termMonths": 12,
+      "signedDate": "2026-06-14",
+      "closedWonDate": "2026-06-14",
+      "ownerId": "ben"
+    },
+    {
+      "id": "D-1004",
+      "account": "Meridian Hotels",
+      "amountCents": 2400000,
+      "termMonths": 12,
+      "signedDate": "2026-06-26",
+      "closedWonDate": "2026-06-26",
+      "ownerId": "carlos"
+    },
+    {
+      "id": "D-1005",
+      "account": "Meridian Hotels",
+      "amountCents": 2500000,
+      "termMonths": 12,
+      "signedDate": "2026-06-27",
+      "closedWonDate": "2026-06-27",
+      "ownerId": "dana"
+    },
+    {
+      "id": "D-1006",
+      "account": "Ion Energy",
+      "amountCents": 3800000,
+      "termMonths": 12,
+      "signedDate": "2026-06-02",
+      "closedWonDate": "2026-06-02",
+      "ownerId": "eli"
+    },
+    {
+      "id": "D-1007",
+      "account": "Fathom Media",
+      "amountCents": 3900000,
+      "termMonths": 12,
+      "signedDate": "2026-06-13",
+      "closedWonDate": "2026-06-13",
+      "ownerId": "farah"
+    },
+    {
+      "id": "D-1008",
+      "account": "Fathom Media",
+      "amountCents": 2300000,
+      "termMonths": 12,
+      "signedDate": "2026-06-04",
+      "closedWonDate": "2026-06-04",
+      "ownerId": "gus"
+    },
+    {
+      "id": "D-1009",
+      "account": "Bluefin Health",
+      "amountCents": 2500000,
+      "termMonths": 12,
+      "signedDate": "2026-06-05",
+      "closedWonDate": "2026-06-05",
+      "ownerId": "hana"
+    },
+    {
+      "id": "D-1010",
+      "account": "Tidal Networks",
+      "amountCents": 3500000,
+      "termMonths": 12,
+      "signedDate": "2026-06-26",
+      "closedWonDate": "2026-06-26",
+      "ownerId": "hana"
+    },
+    {
+      "id": "D-1011",
+      "account": "Granite Bank",
+      "amountCents": 10800000,
+      "termMonths": 36,
+      "signedDate": "2026-06-18",
+      "closedWonDate": "2026-06-18",
+      "ownerId": "dana"
+    }
+  ],
+  "churn": [],
+  "crmClosedWonTotalCents": 40000000
+}

@@ -1,0 +1,59 @@
+{
+  "moduleId": "commissions",
+  "name": "Sales commissions",
+  "client": "Northwind Analytics",
+  "clientNote": "B2B SaaS, 8 account executives",
+  "unit": "reps",
+  "schedule": {
+    "cron": "0 6 2 * *",
+    "timezone": "America/Los_Angeles",
+    "label": "Runs on the 2nd at 6:00 AM"
+  },
+  "livePeriod": "2026-09",
+  "deadline": "Payroll cutoff Oct 5",
+  "writtenRules": "Reps earn 10% of bookings, paid in the month the contract is signed.\nSplit deals pay each rep their share.\nIf a customer churns within 90 days of signing, claw back that deal's commission.",
+  "suggestedCorrections": [
+    "Multi-year deals only pay on first-year value.",
+    "Bookings above monthly quota pay 1.5x the rate."
+  ],
+  "baseline": {
+    "minutesPerItem": 25,
+    "perItemLabel": "min to build each rep's statement by hand",
+    "fixedMinutes": 45,
+    "fixedLabel": "min to pull the CRM report and reconcile bookings",
+    "minutesPerDecision": 3,
+    "source": "Placeholder estimate. Replace with a timed manual pass on this seed before quoting."
+  },
+  "examples": [
+    {
+      "id": "2026-06",
+      "label": "June 2026",
+      "period": "2026-06",
+      "files": [
+        "crm_closed_won_2026-06.csv",
+        "commission_statements_2026-06.pdf"
+      ],
+      "stats": "Statements approved by finance"
+    },
+    {
+      "id": "2026-07",
+      "label": "July 2026",
+      "period": "2026-07",
+      "files": [
+        "crm_closed_won_2026-07.csv",
+        "commission_statements_2026-07.pdf"
+      ],
+      "stats": "Statements approved by finance"
+    },
+    {
+      "id": "2026-08",
+      "label": "August 2026",
+      "period": "2026-08",
+      "files": [
+        "crm_closed_won_2026-08.csv",
+        "commission_statements_2026-08.pdf"
+      ],
+      "stats": "Statements approved by finance"
+    }
+  ]
+}

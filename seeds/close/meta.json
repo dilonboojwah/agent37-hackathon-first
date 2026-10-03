@@ -1,0 +1,115 @@
+{
+  "moduleId": "close",
+  "name": "Month-end close",
+  "client": "Harbor Goods Co.",
+  "clientNote": "Shopify seller, accrual basis",
+  "unit": "statements",
+  "schedule": {
+    "cron": "0 7 1 * *",
+    "timezone": "America/Los_Angeles",
+    "label": "Runs on the 1st at 7:00 AM"
+  },
+  "livePeriod": "2026-09",
+  "deadline": "CPA review due Oct 5",
+  "chart": [
+    "Sales revenue",
+    "Wholesale revenue",
+    "Refunds and returns",
+    "Interest income",
+    "Inventory",
+    "Packaging and labels",
+    "Merchant fees",
+    "Shipping and postage",
+    "Advertising",
+    "Software",
+    "Prepaid expenses",
+    "Office supplies",
+    "Rent",
+    "Utilities",
+    "Insurance",
+    "Payroll",
+    "Payroll taxes",
+    "Contractors",
+    "Meals",
+    "Travel",
+    "Bank fees",
+    "Owner draws",
+    "Transfer between accounts",
+    "Credit card payment"
+  ],
+  "wiring": {
+    "bankAccountId": "chase-checking",
+    "payrollNetMerchant": "GUSTO PAYROLL",
+    "payrollTaxMerchant": "GUSTO TAX"
+  },
+  "writtenRules": "Use our chart of accounts. Book each transaction to the same category we used before for that vendor.\nShopify and Stripe payouts are transfers; revenue comes from the payout reports.\nBalances must tie to the cent. Never guess a missing exchange rate.\nAsk before adding an account that isn't in our books.",
+  "suggestedCorrections": [
+    "Split Amazon orders by receipt line: phone cases, mailers and poly bags are inventory; everything else is office supplies.",
+    "Annual software plans over $1,000 go to prepaid expenses."
+  ],
+  "baseline": {
+    "minutesPerItem": 22,
+    "perItemLabel": "min to reconcile each statement by hand",
+    "fixedMinutes": 60,
+    "fixedLabel": "min to categorize leftovers and write the close summary",
+    "minutesPerDecision": 2,
+    "source": "Placeholder estimate. Replace with a timed manual pass on this seed before quoting."
+  },
+  "examples": [
+    {
+      "id": "2026-06",
+      "label": "June 2026",
+      "period": "2026-06",
+      "files": [
+        "chase_checking_2026-06.csv",
+        "chase_savings_2026-06.csv",
+        "amex_business_2026-06.csv",
+        "shopify_payouts_2026-06.csv",
+        "stripe_balance_2026-06.csv",
+        "gusto_payroll_register_2026-06.csv",
+        "revolut_2026-06.pdf"
+      ],
+      "stats": "142 transactions, closed and reviewed"
+    },
+    {
+      "id": "2026-07",
+      "label": "July 2026",
+      "period": "2026-07",
+      "files": [
+        "chase_checking_2026-07.csv",
+        "chase_savings_2026-07.csv",
+        "amex_business_2026-07.csv",
+        "shopify_payouts_2026-07.csv",
+        "stripe_balance_2026-07.csv",
+        "gusto_payroll_register_2026-07.csv",
+        "revolut_2026-07.pdf"
+      ],
+      "stats": "144 transactions, closed and reviewed"
+    },
+    {
+      "id": "2026-08",
+      "label": "August 2026",
+      "period": "2026-08",
+      "files": [
+        "chase_checking_2026-08.csv",
+        "chase_savings_2026-08.csv",
+        "amex_business_2026-08.csv",
+        "shopify_payouts_2026-08.csv",
+        "stripe_balance_2026-08.csv",
+        "gusto_payroll_register_2026-08.csv",
+        "revolut_2026-08.pdf"
+      ],
+      "stats": "144 transactions, closed and reviewed"
+    }
+  ],
+  "liveStats": {
+    "transactions": 146,
+    "statements": 7
+  },
+  "recordedLookups": {
+    "SQ *KESTREL PRINT": {
+      "name": "Kestrel Print Co.",
+      "description": "Commercial printer in Oakland, CA: custom boxes, labels, and marketing flyers."
+    }
+  }
+}

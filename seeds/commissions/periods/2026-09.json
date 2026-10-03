@@ -1,0 +1,187 @@
+{
+  "period": "2026-09",
+  "company": "Northwind Analytics",
+  "reps": [
+    {
+      "id": "ava",
+      "name": "Ava Chen",
+      "quotaCents": 10000000
+    },
+    {
+      "id": "ben",
+      "name": "Ben Ortiz",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "carlos",
+      "name": "Carlos Diaz",
+      "quotaCents": 12000000,
+      "endDate": "2026-08-31"
+    },
+    {
+      "id": "dana",
+      "name": "Dana Kim",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "eli",
+      "name": "Eli Novak",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "farah",
+      "name": "Farah Aziz",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "gus",
+      "name": "Gus Patel",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "hana",
+      "name": "Hana Ito",
+      "quotaCents": 12000000
+    }
+  ],
+  "deals": [
+    {
+      "id": "D-1038",
+      "account": "Bluefin Health",
+      "amountCents": 4000000,
+      "termMonths": 12,
+      "signedDate": "2026-09-25",
+      "closedWonDate": "2026-09-25",
+      "ownerId": "ava"
+    },
+    {
+      "id": "D-1039",
+      "account": "Evergreen Foods",
+      "amountCents": 2600000,
+      "termMonths": 12,
+      "signedDate": "2026-09-15",
+      "closedWonDate": "2026-09-15",
+      "ownerId": "ben"
+    },
+    {
+      "id": "D-1040",
+      "account": "Delta Dental Group",
+      "amountCents": 2500000,
+      "termMonths": 12,
+      "signedDate": "2026-09-24",
+      "closedWonDate": "2026-09-24",
+      "ownerId": "dana"
+    },
+    {
+      "id": "D-1041",
+      "account": "Helix Robotics",
+      "amountCents": 4000000,
+      "termMonths": 12,
+      "signedDate": "2026-09-21",
+      "closedWonDate": "2026-09-21",
+      "ownerId": "eli"
+    },
+    {
+      "id": "D-1042",
+      "account": "Summit Realty",
+      "amountCents": 4000000,
+      "termMonths": 12,
+      "signedDate": "2026-09-09",
+      "closedWonDate": "2026-09-09",
+      "ownerId": "farah"
+    },
+    {
+      "id": "D-1043",
+      "account": "Juniper Schools",
+      "amountCents": 3200000,
+      "termMonths": 12,
+      "signedDate": "2026-09-14",
+      "closedWonDate": "2026-09-14",
+      "ownerId": "farah"
+    },
+    {
+      "id": "D-1044",
+      "account": "Pioneer Logistics",
+      "amountCents": 3800000,
+      "termMonths": 12,
+      "signedDate": "2026-09-10",
+      "closedWonDate": "2026-09-10",
+      "ownerId": "gus"
+    },
+    {
+      "id": "D-1045",
+      "account": "Fathom Media",
+      "amountCents": 2300000,
+      "termMonths": 12,
+      "signedDate": "2026-09-16",
+      "closedWonDate": "2026-09-16",
+      "ownerId": "gus"
+    },
+    {
+      "id": "D-1046",
+      "account": "Evergreen Foods",
+      "amountCents": 3800000,
+      "termMonths": 12,
+      "signedDate": "2026-09-05",
+      "closedWonDate": "2026-09-05",
+      "ownerId": "hana"
+    },
+    {
+      "id": "D-1047",
+      "account": "Pioneer Logistics",
+      "amountCents": 3000000,
+      "termMonths": 12,
+      "signedDate": "2026-09-08",
+      "closedWonDate": "2026-09-08",
+      "ownerId": "hana"
+    },
+    {
+      "id": "D-1048",
+      "account": "Helix Robotics",
+      "amountCents": 4400000,
+      "termMonths": 12,
+      "signedDate": "2026-09-12",
+      "closedWonDate": "2026-09-12",
+      "ownerId": "ava",
+      "splits": [
+        {
+          "repId": "ava",
+          "pct": 60
+        },
+        {
+          "repId": "ben",
+          "pct": 50
+        }
+      ]
+    },
+    {
+      "id": "D-1049",
+      "account": "Orchard Clinics",
+      "amountCents": 2600000,
+      "termMonths": 12,
+      "signedDate": "2026-09-03",
+      "closedWonDate": "2026-09-03",
+      "ownerId": "carlos"
+    },
+    {
+      "id": "D-1050",
+      "account": "Summit Realty",
+      "amountCents": 2200000,
+      "termMonths": 12,
+      "signedDate": null,
+      "closedWonDate": "2026-09-18",
+      "ownerId": "dana"
+    },
+    {
+      "id": "D-1051",
+      "account": "Pioneer Logistics",
+      "amountCents": 7200000,
+      "termMonths": 24,
+      "signedDate": "2026-09-22",
+      "closedWonDate": "2026-09-22",
+      "ownerId": "gus"
+    }
+  ],
+  "churn": [],
+  "crmClosedWonTotalCents": 49600000
+}

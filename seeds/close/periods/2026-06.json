@@ -1,0 +1,1169 @@
+{
+  "period": "2026-06",
+  "client": "Harbor Goods Co.",
+  "statements": [
+    {
+      "file": "chase_checking_2026-06.csv",
+      "item": "Chase checking",
+      "accounts": [
+        {
+          "accountId": "chase-checking",
+          "name": "Chase checking",
+          "currency": "USD",
+          "last4": "4410",
+          "openingCents": 4123012,
+          "closingCents": 8648951,
+          "transactions": [
+            {
+              "id": "202606-0087",
+              "date": "2026-06-01",
+              "description": "UPWORK -443789",
+              "merchant": "UPWORK",
+              "amountCents": -65901
+            },
+            {
+              "id": "202606-0089",
+              "date": "2026-06-03",
+              "description": "MONTHLY SERVICE FEE",
+              "merchant": "CHASE FEE",
+              "amountCents": -1500
+            },
+            {
+              "id": "202606-0100",
+              "date": "2026-06-03",
+              "description": "SHOPIFY PAYOUT PO-202606-1",
+              "merchant": "SHOPIFY PAYOUT",
+              "amountCents": 1021876
+            },
+            {
+              "id": "202606-0101",
+              "date": "2026-06-06",
+              "description": "SHOPIFY PAYOUT PO-202606-2",
+              "merchant": "SHOPIFY PAYOUT",
+              "amountCents": 849706
+            },
+            {
+              "id": "202606-0102",
+              "date": "2026-06-09",
+              "description": "SHOPIFY PAYOUT PO-202606-3",
+              "merchant": "SHOPIFY PAYOUT",
+              "amountCents": 1084980
+            },
+            {
+              "id": "202606-0103",
+              "date": "2026-06-12",
+              "description": "SHOPIFY PAYOUT PO-202606-4",
+              "merchant": "SHOPIFY PAYOUT",
+              "amountCents": 1101353
+            },
+            {
+              "id": "202606-0083",
+              "date": "2026-06-14",
+              "description": "PGANDE WEB ONLINE",
+              "merchant": "PG&E",
+              "amountCents": -23631
+            },
+            {
+              "id": "202606-0126",
+              "date": "2026-06-14",
+              "description": "GUSTO PAYROLL NET",
+              "merchant": "GUSTO PAYROLL",
+              "amountCents": -1695695
+            },
+            {
+              "id": "202606-0127",
+              "date": "2026-06-14",
+              "description": "GUSTO TAX",
+              "merchant": "GUSTO TAX",
+              "amountCents": -524193
+            },
+            {
+              "id": "202606-0084",
+              "date": "2026-06-15",
+              "description": "COMCAST BUSINESS",
+              "merchant": "COMCAST",
+              "amountCents": -12900
+            },
+            {
+              "id": "202606-0104",
+              "date": "2026-06-15",
+              "description": "SHOPIFY PAYOUT PO-202606-5",
+              "merchant": "SHOPIFY PAYOUT",
+              "amountCents": 1068129
+            },
+            {
+              "id": "202606-0082",
+              "date": "2026-06-17",
+              "description": "HARBOR STUDIOS RENT",
+              "merchant": "HARBOR STUDIOS",
+              "amountCents": -420000
+            },
+            {
+              "id": "202606-0105",
+              "date": "2026-06-18",
+              "description": "SHOPIFY PAYOUT PO-202606-6",
+              "merchant": "SHOPIFY PAYOUT",
+              "amountCents": 850779
+            },
+            {
+              "id": "202606-0085",
+              "date": "2026-06-19",
+              "description": "THE HARTFORD INS",
+              "merchant": "THE HARTFORD",
+              "amountCents": -31000
+            },
+            {
+              "id": "202606-0086",
+              "date": "2026-06-19",
+              "description": "UPWORK -853175",
+              "merchant": "UPWORK",
+              "amountCents": -92409
+            },
+            {
+              "id": "202606-0106",
+              "date": "2026-06-21",
+              "description": "SHOPIFY PAYOUT PO-202606-7",
+              "merchant": "SHOPIFY PAYOUT",
+              "amountCents": 1106573
+            },
+            {
+              "id": "202606-0088",
+              "date": "2026-06-22",
+              "description": "ONLINE TRANSFER TO M. REYES",
+              "merchant": "OWNER TRANSFER",
+              "amountCents": -207355
+            },
+            {
+              "id": "202606-0107",
+              "date": "2026-06-24",
+              "description": "SHOPIFY PAYOUT PO-202606-8",
+              "merchant": "SHOPIFY PAYOUT",
+              "amountCents": 998486
+            },
+            {
+              "id": "202606-0130",
+              "date": "2026-06-25",
+              "description": "AMEX EPAYMENT ACH PMT",
+              "merchant": "AMEX EPAYMENT",
+              "amountCents": -1053677
+            },
+            {
+              "id": "202606-0132",
+              "date": "2026-06-26",
+              "description": "TRANSFER TO SAV 8821",
+              "merchant": "SAVINGS TRANSFER",
+              "amountCents": -500000
+            },
+            {
+              "id": "202606-0125",
+              "date": "2026-06-28",
+              "description": "STRIPE TRANSFER",
+              "merchant": "STRIPE TRANSFER",
+              "amountCents": 3302456
+            },
+            {
+              "id": "202606-0128",
+              "date": "2026-06-28",
+              "description": "GUSTO PAYROLL NET",
+              "merchant": "GUSTO PAYROLL",
+              "amountCents": -1690791
+            },
+            {
+              "id": "202606-0129",
+              "date": "2026-06-28",
+              "description": "GUSTO TAX",
+              "merchant": "GUSTO TAX",
+              "amountCents": -539347
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "chase_savings_2026-06.csv",
+      "item": "Chase savings",
+      "accounts": [
+        {
+          "accountId": "chase-savings",
+          "name": "Chase savings",
+          "currency": "USD",
+          "last4": "8821",
+          "openingCents": 2500000,
+          "closingCents": 3004738,
+          "transactions": [
+            {
+              "id": "202606-0133",
+              "date": "2026-06-26",
+              "description": "TRANSFER FROM CHK 4410",
+              "merchant": "SAVINGS TRANSFER",
+              "amountCents": 500000
+            },
+            {
+              "id": "202606-0134",
+              "date": "2026-06-28",
+              "description": "INTEREST PAYMENT",
+              "merchant": "INTEREST",
+              "amountCents": 4738
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "amex_business_2026-06.csv",
+      "item": "Amex business card",
+      "accounts": [
+        {
+          "accountId": "amex",
+          "name": "Amex business card",
+          "currency": "USD",
+          "last4": "1007",
+          "openingCents": -612044,
+          "closingCents": -612044,
+          "transactions": [
+            {
+              "id": "202606-0001",
+              "date": "2026-06-01",
+              "description": "FACEBK *76546",
+              "merchant": "META ADS",
+              "amountCents": -41902
+            },
+            {
+              "id": "202606-0038",
+              "date": "2026-06-01",
+              "description": "SHIPPO LABELS 384",
+              "merchant": "SHIPPO",
+              "amountCents": -16010
+            },
+            {
+              "id": "202606-0066",
+              "date": "2026-06-01",
+              "description": "UBER *TRIP 246",
+              "merchant": "UBER",
+              "amountCents": -1431
+            },
+            {
+              "id": "202606-0028",
+              "date": "2026-06-02",
+              "description": "USPS PO 3409",
+              "merchant": "USPS",
+              "amountCents": -1296
+            },
+            {
+              "id": "202606-0042",
+              "date": "2026-06-03",
+              "description": "SHIPPO LABELS 350",
+              "merchant": "SHIPPO",
+              "amountCents": -12597
+            },
+            {
+              "id": "202606-0060",
+              "date": "2026-06-03",
+              "description": "STAPLES 328",
+              "merchant": "STAPLES",
+              "amountCents": -7094
+            },
+            {
+              "id": "202606-0068",
+              "date": "2026-06-03",
+              "description": "UBER *TRIP 787",
+              "merchant": "UBER",
+              "amountCents": -5497
+            },
+            {
+              "id": "202606-0095",
+              "date": "2026-06-03",
+              "description": "FIGMA ANNUAL PLAN",
+              "merchant": "FIGMA",
+              "amountCents": -144000
+            },
+            {
+              "id": "202606-0007",
+              "date": "2026-06-04",
+              "description": "FACEBK *52703",
+              "merchant": "META ADS",
+              "amountCents": -33550
+            },
+            {
+              "id": "202606-0021",
+              "date": "2026-06-04",
+              "description": "USPS PO 1735",
+              "merchant": "USPS",
+              "amountCents": -3347
+            },
+            {
+              "id": "202606-0039",
+              "date": "2026-06-04",
+              "description": "SHIPPO LABELS 288",
+              "merchant": "SHIPPO",
+              "amountCents": -3242
+            },
+            {
+              "id": "202606-0054",
+              "date": "2026-06-04",
+              "description": "UPS*785461",
+              "merchant": "UPS",
+              "amountCents": -1930
+            },
+            {
+              "id": "202606-0076",
+              "date": "2026-06-04",
+              "description": "BLUE BOTTLE COFFEE",
+              "merchant": "BLUE BOTTLE",
+              "amountCents": -2085
+            },
+            {
+              "id": "202606-0032",
+              "date": "2026-06-05",
+              "description": "USPS PO 2235",
+              "merchant": "USPS",
+              "amountCents": -3354
+            },
+            {
+              "id": "202606-0044",
+              "date": "2026-06-05",
+              "description": "SHIPPO LABELS 747",
+              "merchant": "SHIPPO",
+              "amountCents": -8973
+            },
+            {
+              "id": "202606-0096",
+              "date": "2026-06-05",
+              "description": "LINEAR APP MONTHLY",
+              "merchant": "LINEAR",
+              "amountCents": -9600
+            },
+            {
+              "id": "202606-0029",
+              "date": "2026-06-06",
+              "description": "USPS PO 4852",
+              "merchant": "USPS",
+              "amountCents": -4395
+            },
+            {
+              "id": "202606-0048",
+              "date": "2026-06-06",
+              "description": "SHIPPO LABELS 562",
+              "merchant": "SHIPPO",
+              "amountCents": -15944
+            },
+            {
+              "id": "202606-0081",
+              "date": "2026-06-06",
+              "description": "SWEETGREEN SF",
+              "merchant": "SWEETGREEN",
+              "amountCents": -1523
+            },
+            {
+              "id": "202606-0006",
+              "date": "2026-06-07",
+              "description": "FACEBK *64048",
+              "merchant": "META ADS",
+              "amountCents": -40687
+            },
+            {
+              "id": "202606-0051",
+              "date": "2026-06-07",
+              "description": "UPS*352870",
+              "merchant": "UPS",
+              "amountCents": -10724
+            },
+            {
+              "id": "202606-0055",
+              "date": "2026-06-07",
+              "description": "UPS*995064",
+              "merchant": "UPS",
+              "amountCents": -12199
+            },
+            {
+              "id": "202606-0097",
+              "date": "2026-06-07",
+              "description": "AMZN MKTP US*745K28",
+              "merchant": "AMZN MKTP",
+              "amountCents": -4341,
+              "receipt": {
+                "lines": [
+                  {
+                    "desc": "USB-C hub",
+                    "amountCents": 2125
+                  },
+                  {
+                    "desc": "Toner cartridge",
+                    "amountCents": 2216
+                  }
+                ]
+              }
+            },
+            {
+              "id": "202606-0026",
+              "date": "2026-06-08",
+              "description": "USPS PO 4457",
+              "merchant": "USPS",
+              "amountCents": -4224
+            },
+            {
+              "id": "202606-0009",
+              "date": "2026-06-09",
+              "description": "FACEBK *69915",
+              "merchant": "META ADS",
+              "amountCents": -33627
+            },
+            {
+              "id": "202606-0017",
+              "date": "2026-06-09",
+              "description": "GOOGLE *ADS3776",
+              "merchant": "GOOGLE ADS",
+              "amountCents": -7211
+            },
+            {
+              "id": "202606-0034",
+              "date": "2026-06-09",
+              "description": "USPS PO 7691",
+              "merchant": "USPS",
+              "amountCents": -1910
+            },
+            {
+              "id": "202606-0041",
+              "date": "2026-06-09",
+              "description": "SHIPPO LABELS 408",
+              "merchant": "SHIPPO",
+              "amountCents": -5909
+            },
+            {
+              "id": "202606-0043",
+              "date": "2026-06-09",
+              "description": "SHIPPO LABELS 192",
+              "merchant": "SHIPPO",
+              "amountCents": -13646
+            },
+            {
+              "id": "202606-0046",
+              "date": "2026-06-09",
+              "description": "SHIPPO LABELS 529",
+              "merchant": "SHIPPO",
+              "amountCents": -17436
+            },
+            {
+              "id": "202606-0025",
+              "date": "2026-06-10",
+              "description": "USPS PO 8657",
+              "merchant": "USPS",
+              "amountCents": -3745
+            },
+            {
+              "id": "202606-0049",
+              "date": "2026-06-10",
+              "description": "SHIPPO LABELS 585",
+              "merchant": "SHIPPO",
+              "amountCents": -10731
+            },
+            {
+              "id": "202606-0011",
+              "date": "2026-06-11",
+              "description": "FACEBK *57148",
+              "merchant": "META ADS",
+              "amountCents": -20211
+            },
+            {
+              "id": "202606-0050",
+              "date": "2026-06-11",
+              "description": "UPS*761190",
+              "merchant": "UPS",
+              "amountCents": -11447
+            },
+            {
+              "id": "202606-0057",
+              "date": "2026-06-11",
+              "description": "ULINE *SHIP SUPPLIES",
+              "merchant": "ULINE",
+              "amountCents": -22060
+            },
+            {
+              "id": "202606-0061",
+              "date": "2026-06-11",
+              "description": "SLACK T08202",
+              "merchant": "SLACK",
+              "amountCents": -5200
+            },
+            {
+              "id": "202606-0065",
+              "date": "2026-06-11",
+              "description": "UBER *TRIP 469",
+              "merchant": "UBER",
+              "amountCents": -4894
+            },
+            {
+              "id": "202606-0031",
+              "date": "2026-06-12",
+              "description": "USPS PO 9473",
+              "merchant": "USPS",
+              "amountCents": -7924
+            },
+            {
+              "id": "202606-0075",
+              "date": "2026-06-12",
+              "description": "BLUE BOTTLE COFFEE",
+              "merchant": "BLUE BOTTLE",
+              "amountCents": -1106
+            },
+            {
+              "id": "202606-0030",
+              "date": "2026-06-13",
+              "description": "USPS PO 9750",
+              "merchant": "USPS",
+              "amountCents": -2259
+            },
+            {
+              "id": "202606-0037",
+              "date": "2026-06-13",
+              "description": "USPS PO 2955",
+              "merchant": "USPS",
+              "amountCents": -6582
+            },
+            {
+              "id": "202606-0040",
+              "date": "2026-06-13",
+              "description": "SHIPPO LABELS 110",
+              "merchant": "SHIPPO",
+              "amountCents": -10522
+            },
+            {
+              "id": "202606-0019",
+              "date": "2026-06-14",
+              "description": "USPS PO 3788",
+              "merchant": "USPS",
+              "amountCents": -7451
+            },
+            {
+              "id": "202606-0022",
+              "date": "2026-06-14",
+              "description": "USPS PO 4041",
+              "merchant": "USPS",
+              "amountCents": -7374
+            },
+            {
+              "id": "202606-0024",
+              "date": "2026-06-14",
+              "description": "USPS PO 2038",
+              "merchant": "USPS",
+              "amountCents": -5063
+            },
+            {
+              "id": "202606-0018",
+              "date": "2026-06-15",
+              "description": "GOOGLE *ADS4699",
+              "merchant": "GOOGLE ADS",
+              "amountCents": -27381
+            },
+            {
+              "id": "202606-0033",
+              "date": "2026-06-15",
+              "description": "USPS PO 8433",
+              "merchant": "USPS",
+              "amountCents": -3624
+            },
+            {
+              "id": "202606-0045",
+              "date": "2026-06-15",
+              "description": "SHIPPO LABELS 835",
+              "merchant": "SHIPPO",
+              "amountCents": -2395
+            },
+            {
+              "id": "202606-0064",
+              "date": "2026-06-15",
+              "description": "CANVA* 483",
+              "merchant": "CANVA",
+              "amountCents": -1500
+            },
+            {
+              "id": "202606-0070",
+              "date": "2026-06-15",
+              "description": "BLUE BOTTLE COFFEE",
+              "merchant": "BLUE BOTTLE",
+              "amountCents": -682
+            },
+            {
+              "id": "202606-0079",
+              "date": "2026-06-15",
+              "description": "SWEETGREEN SF",
+              "merchant": "SWEETGREEN",
+              "amountCents": -2031
+            },
+            {
+              "id": "202606-0013",
+              "date": "2026-06-16",
+              "description": "GOOGLE *ADS7270",
+              "merchant": "GOOGLE ADS",
+              "amountCents": -11320
+            },
+            {
+              "id": "202606-0035",
+              "date": "2026-06-16",
+              "description": "USPS PO 4756",
+              "merchant": "USPS",
+              "amountCents": -6844
+            },
+            {
+              "id": "202606-0002",
+              "date": "2026-06-17",
+              "description": "FACEBK *25888",
+              "merchant": "META ADS",
+              "amountCents": -14730
+            },
+            {
+              "id": "202606-0010",
+              "date": "2026-06-17",
+              "description": "FACEBK *97358",
+              "merchant": "META ADS",
+              "amountCents": -24116
+            },
+            {
+              "id": "202606-0059",
+              "date": "2026-06-17",
+              "description": "STAPLES 954",
+              "merchant": "STAPLES",
+              "amountCents": -6598
+            },
+            {
+              "id": "202606-0063",
+              "date": "2026-06-17",
+              "description": "KLAVIYO INC",
+              "merchant": "KLAVIYO",
+              "amountCents": -15000
+            },
+            {
+              "id": "202606-0069",
+              "date": "2026-06-17",
+              "description": "UBER *TRIP 341",
+              "merchant": "UBER",
+              "amountCents": -5639
+            },
+            {
+              "id": "202606-0078",
+              "date": "2026-06-17",
+              "description": "SWEETGREEN SF",
+              "merchant": "SWEETGREEN",
+              "amountCents": -1514
+            },
+            {
+              "id": "202606-0003",
+              "date": "2026-06-18",
+              "description": "FACEBK *54668",
+              "merchant": "META ADS",
+              "amountCents": -40586
+            },
+            {
+              "id": "202606-0077",
+              "date": "2026-06-18",
+              "description": "BLUE BOTTLE COFFEE",
+              "merchant": "BLUE BOTTLE",
+              "amountCents": -1090
+            },
+            {
+              "id": "202606-0099",
+              "date": "2026-06-18",
+              "description": "AMZN MKTP US*282K89",
+              "merchant": "AMZN MKTP",
+              "amountCents": -10197,
+              "receipt": {
+                "lines": [
+                  {
+                    "desc": "Printer paper, 10 reams",
+                    "amountCents": 9144
+                  },
+                  {
+                    "desc": "Desk lamp",
+                    "amountCents": 1053
+                  }
+                ]
+              }
+            },
+            {
+              "id": "202606-0008",
+              "date": "2026-06-19",
+              "description": "FACEBK *37475",
+              "merchant": "META ADS",
+              "amountCents": -13303
+            },
+            {
+              "id": "202606-0015",
+              "date": "2026-06-19",
+              "description": "GOOGLE *ADS1200",
+              "merchant": "GOOGLE ADS",
+              "amountCents": -11237
+            },
+            {
+              "id": "202606-0067",
+              "date": "2026-06-20",
+              "description": "UBER *TRIP 926",
+              "merchant": "UBER",
+              "amountCents": -5677
+            },
+            {
+              "id": "202606-0036",
+              "date": "2026-06-21",
+              "description": "USPS PO 5280",
+              "merchant": "USPS",
+              "amountCents": -4419
+            },
+            {
+              "id": "202606-0047",
+              "date": "2026-06-21",
+              "description": "SHIPPO LABELS 936",
+              "merchant": "SHIPPO",
+              "amountCents": -13547
+            },
+            {
+              "id": "202606-0056",
+              "date": "2026-06-21",
+              "description": "ULINE *SHIP SUPPLIES",
+              "merchant": "ULINE",
+              "amountCents": -49907
+            },
+            {
+              "id": "202606-0062",
+              "date": "2026-06-21",
+              "description": "NOTION LABS",
+              "merchant": "NOTION",
+              "amountCents": -4000
+            },
+            {
+              "id": "202606-0004",
+              "date": "2026-06-23",
+              "description": "FACEBK *30046",
+              "merchant": "META ADS",
+              "amountCents": -28389
+            },
+            {
+              "id": "202606-0023",
+              "date": "2026-06-23",
+              "description": "USPS PO 9179",
+              "merchant": "USPS",
+              "amountCents": -8195
+            },
+            {
+              "id": "202606-0073",
+              "date": "2026-06-23",
+              "description": "BLUE BOTTLE COFFEE",
+              "merchant": "BLUE BOTTLE",
+              "amountCents": -806
+            },
+            {
+              "id": "202606-0098",
+              "date": "2026-06-23",
+              "description": "AMZN MKTP US*680K60",
+              "merchant": "AMZN MKTP",
+              "amountCents": -5160,
+              "receipt": {
+                "lines": [
+                  {
+                    "desc": "USB-C hub",
+                    "amountCents": 1930
+                  },
+                  {
+                    "desc": "Printer paper, 10 reams",
+                    "amountCents": 3230
+                  }
+                ]
+              }
+            },
+            {
+              "id": "202606-0014",
+              "date": "2026-06-24",
+              "description": "GOOGLE *ADS2594",
+              "merchant": "GOOGLE ADS",
+              "amountCents": -13593
+            },
+            {
+              "id": "202606-0052",
+              "date": "2026-06-24",
+              "description": "UPS*572443",
+              "merchant": "UPS",
+              "amountCents": -3835
+            },
+            {
+              "id": "202606-0058",
+              "date": "2026-06-24",
+              "description": "ULINE *SHIP SUPPLIES",
+              "merchant": "ULINE",
+              "amountCents": -29117
+            },
+            {
+              "id": "202606-0071",
+              "date": "2026-06-25",
+              "description": "BLUE BOTTLE COFFEE",
+              "merchant": "BLUE BOTTLE",
+              "amountCents": -1672
+            },
+            {
+              "id": "202606-0074",
+              "date": "2026-06-25",
+              "description": "BLUE BOTTLE COFFEE",
+              "merchant": "BLUE BOTTLE",
+              "amountCents": -1265
+            },
+            {
+              "id": "202606-0131",
+              "date": "2026-06-25",
+              "description": "PAYMENT RECEIVED - THANK YOU",
+              "merchant": "AMEX PAYMENT",
+              "amountCents": 1053677
+            },
+            {
+              "id": "202606-0005",
+              "date": "2026-06-26",
+              "description": "FACEBK *89439",
+              "merchant": "META ADS",
+              "amountCents": -33320
+            },
+            {
+              "id": "202606-0012",
+              "date": "2026-06-26",
+              "description": "FACEBK *92273",
+              "merchant": "META ADS",
+              "amountCents": -12398
+            },
+            {
+              "id": "202606-0027",
+              "date": "2026-06-26",
+              "description": "USPS PO 7418",
+              "merchant": "USPS",
+              "amountCents": -1270
+            },
+            {
+              "id": "202606-0080",
+              "date": "2026-06-26",
+              "description": "SWEETGREEN SF",
+              "merchant": "SWEETGREEN",
+              "amountCents": -2079
+            },
+            {
+              "id": "202606-0016",
+              "date": "2026-06-28",
+              "description": "GOOGLE *ADS9136",
+              "merchant": "GOOGLE ADS",
+              "amountCents": -19603
+            },
+            {
+              "id": "202606-0020",
+              "date": "2026-06-28",
+              "description": "USPS PO 6559",
+              "merchant": "USPS",
+              "amountCents": -5051
+            },
+            {
+              "id": "202606-0053",
+              "date": "2026-06-28",
+              "description": "UPS*301059",
+              "merchant": "UPS",
+              "amountCents": -13107
+            },
+            {
+              "id": "202606-0072",
+              "date": "2026-06-28",
+              "description": "BLUE BOTTLE COFFEE",
+              "merchant": "BLUE BOTTLE",
+              "amountCents": -1227
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "shopify_payouts_2026-06.csv",
+      "item": "Shopify payouts",
+      "accounts": [],
+      "payouts": [
+        {
+          "id": "PO-202606-1",
+          "date": "2026-06-03",
+          "ordersCount": 70,
+          "grossCents": 1061030,
+          "feesCents": 32870,
+          "refundsCents": 0,
+          "chargebacksCents": 6284,
+          "depositCents": 1021876
+        },
+        {
+          "id": "PO-202606-2",
+          "date": "2026-06-06",
+          "ordersCount": 101,
+          "grossCents": 936096,
+          "feesCents": 30177,
+          "refundsCents": 56213,
+          "chargebacksCents": 0,
+          "depositCents": 849706
+        },
+        {
+          "id": "PO-202606-3",
+          "date": "2026-06-09",
+          "ordersCount": 105,
+          "grossCents": 1129869,
+          "feesCents": 35916,
+          "refundsCents": 0,
+          "chargebacksCents": 8973,
+          "depositCents": 1084980
+        },
+        {
+          "id": "PO-202606-4",
+          "date": "2026-06-12",
+          "ordersCount": 71,
+          "grossCents": 1180423,
+          "feesCents": 36362,
+          "refundsCents": 42708,
+          "chargebacksCents": 0,
+          "depositCents": 1101353
+        },
+        {
+          "id": "PO-202606-5",
+          "date": "2026-06-15",
+          "ordersCount": 111,
+          "grossCents": 1140114,
+          "feesCents": 36393,
+          "refundsCents": 35592,
+          "chargebacksCents": 0,
+          "depositCents": 1068129
+        },
+        {
+          "id": "PO-202606-6",
+          "date": "2026-06-18",
+          "ordersCount": 87,
+          "grossCents": 878876,
+          "feesCents": 28097,
+          "refundsCents": 0,
+          "chargebacksCents": 0,
+          "depositCents": 850779
+        },
+        {
+          "id": "PO-202606-7",
+          "date": "2026-06-21",
+          "ordersCount": 120,
+          "grossCents": 1211799,
+          "feesCents": 38742,
+          "refundsCents": 66484,
+          "chargebacksCents": 0,
+          "depositCents": 1106573
+        },
+        {
+          "id": "PO-202606-8",
+          "date": "2026-06-24",
+          "ordersCount": 90,
+          "grossCents": 1037301,
+          "feesCents": 32782,
+          "refundsCents": 0,
+          "chargebacksCents": 6033,
+          "depositCents": 998486
+        }
+      ]
+    },
+    {
+      "file": "stripe_balance_2026-06.csv",
+      "item": "Stripe",
+      "accounts": [
+        {
+          "accountId": "stripe",
+          "name": "Stripe balance",
+          "currency": "USD",
+          "openingCents": 182033,
+          "closingCents": 442560,
+          "transactions": [
+            {
+              "id": "202606-0118",
+              "date": "2026-06-04",
+              "description": "INVOICE PAYMENT Driftwood Supply",
+              "merchant": "STRIPE INVOICE",
+              "amountCents": 557400
+            },
+            {
+              "id": "202606-0123",
+              "date": "2026-06-04",
+              "description": "STRIPE PROCESSING FEE",
+              "merchant": "STRIPE FEE",
+              "amountCents": -5988
+            },
+            {
+              "id": "202606-0113",
+              "date": "2026-06-09",
+              "description": "STRIPE PROCESSING FEE",
+              "merchant": "STRIPE FEE",
+              "amountCents": -14667
+            },
+            {
+              "id": "202606-0115",
+              "date": "2026-06-10",
+              "description": "STRIPE PROCESSING FEE",
+              "merchant": "STRIPE FEE",
+              "amountCents": -17589
+            },
+            {
+              "id": "202606-0120",
+              "date": "2026-06-11",
+              "description": "INVOICE PAYMENT Driftwood Supply",
+              "merchant": "STRIPE INVOICE",
+              "amountCents": 308177
+            },
+            {
+              "id": "202606-0111",
+              "date": "2026-06-12",
+              "description": "STRIPE PROCESSING FEE",
+              "merchant": "STRIPE FEE",
+              "amountCents": -17887
+            },
+            {
+              "id": "202606-0122",
+              "date": "2026-06-12",
+              "description": "INVOICE PAYMENT Mosaic Market",
+              "merchant": "STRIPE INVOICE",
+              "amountCents": 206470
+            },
+            {
+              "id": "202606-0119",
+              "date": "2026-06-16",
+              "description": "STRIPE PROCESSING FEE",
+              "merchant": "STRIPE FEE",
+              "amountCents": -16165
+            },
+            {
+              "id": "202606-0117",
+              "date": "2026-06-17",
+              "description": "STRIPE PROCESSING FEE",
+              "merchant": "STRIPE FEE",
+              "amountCents": -7303
+            },
+            {
+              "id": "202606-0121",
+              "date": "2026-06-18",
+              "description": "STRIPE PROCESSING FEE",
+              "merchant": "STRIPE FEE",
+              "amountCents": -8937
+            },
+            {
+              "id": "202606-0110",
+              "date": "2026-06-19",
+              "description": "INVOICE PAYMENT Northbeam Retail",
+              "merchant": "STRIPE INVOICE",
+              "amountCents": 616799
+            },
+            {
+              "id": "202606-0114",
+              "date": "2026-06-19",
+              "description": "INVOICE PAYMENT Driftwood Supply",
+              "merchant": "STRIPE INVOICE",
+              "amountCents": 606534
+            },
+            {
+              "id": "202606-0112",
+              "date": "2026-06-20",
+              "description": "INVOICE PAYMENT Kite and Co",
+              "merchant": "STRIPE INVOICE",
+              "amountCents": 505743
+            },
+            {
+              "id": "202606-0108",
+              "date": "2026-06-21",
+              "description": "INVOICE PAYMENT Northbeam Retail",
+              "merchant": "STRIPE INVOICE",
+              "amountCents": 616435
+            },
+            {
+              "id": "202606-0109",
+              "date": "2026-06-22",
+              "description": "STRIPE PROCESSING FEE",
+              "merchant": "STRIPE FEE",
+              "amountCents": -17877
+            },
+            {
+              "id": "202606-0116",
+              "date": "2026-06-23",
+              "description": "INVOICE PAYMENT Northbeam Retail",
+              "merchant": "STRIPE INVOICE",
+              "amountCents": 251838
+            },
+            {
+              "id": "202606-0124",
+              "date": "2026-06-27",
+              "description": "PAYOUT TO CHASE 4410",
+              "merchant": "STRIPE PAYOUT",
+              "amountCents": -3302456
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "gusto_payroll_register_2026-06.csv",
+      "item": "Gusto payroll",
+      "accounts": [],
+      "register": {
+        "grossWagesCents": 4199243,
+        "employerTaxesCents": 250783,
+        "withholdingCents": 812757,
+        "netPayCents": 3386486,
+        "runs": [
+          {
+            "date": "2026-06-14",
+            "netPayCents": 1695695,
+            "taxesCents": 524193
+          },
+          {
+            "date": "2026-06-28",
+            "netPayCents": 1690791,
+            "taxesCents": 539347
+          }
+        ]
+      }
+    },
+    {
+      "file": "revolut_2026-06.pdf",
+      "item": "Revolut",
+      "accounts": [
+        {
+          "accountId": "revolut-usd",
+          "name": "Revolut USD",
+          "currency": "USD",
+          "last4": "3302",
+          "openingCents": 950000,
+          "closingCents": -78837,
+          "transactions": [
+            {
+              "id": "202606-0090",
+              "date": "2026-06-05",
+              "description": "REVOLUT FX PAYMENT SHENZHEN CASEMAKER",
+              "merchant": "SHENZHEN CASEMAKER",
+              "amountCents": -604531
+            },
+            {
+              "id": "202606-0091",
+              "date": "2026-06-07",
+              "description": "REVOLUT FX PAYMENT SHENZHEN CASEMAKER",
+              "merchant": "SHENZHEN CASEMAKER",
+              "amountCents": -314178
+            },
+            {
+              "id": "202606-0093",
+              "date": "2026-06-15",
+              "description": "FX FEE",
+              "merchant": "REVOLUT FEE",
+              "amountCents": -1137
+            },
+            {
+              "id": "202606-0094",
+              "date": "2026-06-16",
+              "description": "TRANSFER LISBON DESIGN STUDIO",
+              "merchant": "LISBON DESIGN STUDIO",
+              "amountCents": -106366
+            },
+            {
+              "id": "202606-0092",
+              "date": "2026-06-27",
+              "description": "FX FEE",
+              "merchant": "REVOLUT FEE",
+              "amountCents": -2625
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "period": "2026-06",
+  "statements": {
+    "ava": {
+      "commissionCents": 570000,
+      "lines": [
+        {
+          "dealId": "D-1001",
+          "creditCents": 2300000,
+          "commissionCents": 230000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1002",
+          "creditCents": 3400000,
+          "commissionCents": 340000,
+          "note": ""
+        }
+      ]
+    },
+    "ben": {
+      "commissionCents": 260000,
+      "lines": [
+        {
+          "dealId": "D-1003",
+          "creditCents": 2600000,
+          "commissionCents": 260000,
+          "note": ""
+        }
+      ]
+    },
+    "carlos": {
+      "commissionCents": 240000,
+      "lines": [
+        {
+          "dealId": "D-1004",
+          "creditCents": 2400000,
+          "commissionCents": 240000,
+          "note": ""
+        }
+      ]
+    },
+    "dana": {
+      "commissionCents": 610000,
+      "lines": [
+        {
+          "dealId": "D-1005",
+          "creditCents": 2500000,
+          "commissionCents": 250000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1011",
+          "creditCents": 3600000,
+          "commissionCents": 360000,
+          "note": ""
+        }
+      ]
+    },
+    "eli": {
+      "commissionCents": 380000,
+      "lines": [
+        {
+          "dealId": "D-1006",
+          "creditCents": 3800000,
+          "commissionCents": 380000,
+          "note": ""
+        }
+      ]
+    },
+    "farah": {
+      "commissionCents": 390000,
+      "lines": [
+        {
+          "dealId": "D-1007",
+          "creditCents": 3900000,
+          "commissionCents": 390000,
+          "note": ""
+        }
+      ]
+    },
+    "gus": {
+      "commissionCents": 230000,
+      "lines": [
+        {
+          "dealId": "D-1008",
+          "creditCents": 2300000,
+          "commissionCents": 230000,
+          "note": ""
+        }
+      ]
+    },
+    "hana": {
+      "commissionCents": 600000,
+      "lines": [
+        {
+          "dealId": "D-1009",
+          "creditCents": 2500000,
+          "commissionCents": 250000,
+          "note": ""
+        },
+        {
+          "dealId": "D-1010",
+          "creditCents": 3500000,
+          "commissionCents": 350000,
+          "note": ""
+        }
+      ]
+    }
+  },
+  "crmClosedWonTotalCents": 40000000,
+  "exceptions": [],
+  "heldReps": [],
+  "exceptionChecks": []
+}

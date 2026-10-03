@@ -1,0 +1,187 @@
+{
+  "period": "2026-07",
+  "company": "Northwind Analytics",
+  "reps": [
+    {
+      "id": "ava",
+      "name": "Ava Chen",
+      "quotaCents": 10000000
+    },
+    {
+      "id": "ben",
+      "name": "Ben Ortiz",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "carlos",
+      "name": "Carlos Diaz",
+      "quotaCents": 12000000,
+      "endDate": "2026-08-31"
+    },
+    {
+      "id": "dana",
+      "name": "Dana Kim",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "eli",
+      "name": "Eli Novak",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "farah",
+      "name": "Farah Aziz",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "gus",
+      "name": "Gus Patel",
+      "quotaCents": 12000000
+    },
+    {
+      "id": "hana",
+      "name": "Hana Ito",
+      "quotaCents": 12000000
+    }
+  ],
+  "deals": [
+    {
+      "id": "D-1012",
+      "account": "Fathom Media",
+      "amountCents": 3500000,
+      "termMonths": 12,
+      "signedDate": "2026-07-26",
+      "closedWonDate": "2026-07-26",
+      "ownerId": "ava"
+    },
+    {
+      "id": "D-1013",
+      "account": "Summit Realty",
+      "amountCents": 3100000,
+      "termMonths": 12,
+      "signedDate": "2026-07-06",
+      "closedWonDate": "2026-07-06",
+      "ownerId": "ava"
+    },
+    {
+      "id": "D-1014",
+      "account": "Juniper Schools",
+      "amountCents": 3400000,
+      "termMonths": 12,
+      "signedDate": "2026-07-23",
+      "closedWonDate": "2026-07-23",
+      "ownerId": "ben"
+    },
+    {
+      "id": "D-1015",
+      "account": "Granite Bank",
+      "amountCents": 1900000,
+      "termMonths": 12,
+      "signedDate": "2026-07-27",
+      "closedWonDate": "2026-07-27",
+      "ownerId": "carlos"
+    },
+    {
+      "id": "D-1016",
+      "account": "Summit Realty",
+      "amountCents": 3100000,
+      "termMonths": 12,
+      "signedDate": "2026-07-16",
+      "closedWonDate": "2026-07-16",
+      "ownerId": "dana"
+    },
+    {
+      "id": "D-1017",
+      "account": "Fathom Media",
+      "amountCents": 3700000,
+      "termMonths": 12,
+      "signedDate": "2026-07-27",
+      "closedWonDate": "2026-07-27",
+      "ownerId": "dana"
+    },
+    {
+      "id": "D-1018",
+      "account": "Granite Bank",
+      "amountCents": 1800000,
+      "termMonths": 12,
+      "signedDate": "2026-07-16",
+      "closedWonDate": "2026-07-16",
+      "ownerId": "eli"
+    },
+    {
+      "id": "D-1019",
+      "account": "Keystone Legal",
+      "amountCents": 1900000,
+      "termMonths": 12,
+      "signedDate": "2026-07-22",
+      "closedWonDate": "2026-07-22",
+      "ownerId": "farah"
+    },
+    {
+      "id": "D-1020",
+      "account": "Fathom Media",
+      "amountCents": 2300000,
+      "termMonths": 12,
+      "signedDate": "2026-07-06",
+      "closedWonDate": "2026-07-06",
+      "ownerId": "farah"
+    },
+    {
+      "id": "D-1021",
+      "account": "Helix Robotics",
+      "amountCents": 2200000,
+      "termMonths": 12,
+      "signedDate": "2026-07-10",
+      "closedWonDate": "2026-07-10",
+      "ownerId": "gus"
+    },
+    {
+      "id": "D-1022",
+      "account": "Cobalt Labs",
+      "amountCents": 3500000,
+      "termMonths": 12,
+      "signedDate": "2026-07-12",
+      "closedWonDate": "2026-07-12",
+      "ownerId": "gus"
+    },
+    {
+      "id": "D-1023",
+      "account": "Bluefin Health",
+      "amountCents": 3300000,
+      "termMonths": 12,
+      "signedDate": "2026-07-03",
+      "closedWonDate": "2026-07-03",
+      "ownerId": "hana"
+    },
+    {
+      "id": "D-1024",
+      "account": "Meridian Hotels",
+      "amountCents": 9000000,
+      "termMonths": 12,
+      "signedDate": "2026-07-21",
+      "closedWonDate": "2026-07-21",
+      "ownerId": "ava"
+    },
+    {
+      "id": "D-1025",
+      "account": "Tidal Networks",
+      "amountCents": 3000000,
+      "termMonths": 12,
+      "signedDate": "2026-07-09",
+      "closedWonDate": "2026-07-09",
+      "ownerId": "eli",
+      "splits": [
+        {
+          "repId": "eli",
+          "pct": 60
+        },
+        {
+          "repId": "farah",
+          "pct": 40
+        }
+      ]
+    }
+  ],
+  "churn": [],
+  "crmClosedWonTotalCents": 45700000
+}
